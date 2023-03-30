@@ -1,0 +1,124 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  main {
+    padding: 20px;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilos específicos para la página "Construcción de sitios web" */
+  main p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+
+/* Estilos específicos para la página "Contacto" */
+main h2 {
+    font-size: 24px;
+  }
+  main p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  main a {
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 150px;
+    text-align: center;
+  }
+  main a:hover {
+    background-color: #444;
+  }
+  main img {
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
+/* Estilos específicos para la página "Desarrollador" */
+main h2 {
+  font-size: 24px;
+}
+/* main img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+main p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 20px;
+  text-align: center;
+}
+
+main img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  main p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 20px;
+    text-align: center;
+  }*/
+
+
+  .desarrollador {
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+}
+
+.desarrollador img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.desarrollador h3 {
+	margin: 10px 0;
+}
